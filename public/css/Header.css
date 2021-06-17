@@ -1,0 +1,28 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+}
+.navbar
+{
+    background-color: #131c21;
+}
+.navbar .nav-links
+{
+    display: flex;
+    flex-direction: row; 
+    justify-content: space-around;
+    list-style: none;
+    align-items: center;
+    padding: 1rem;
+    font-size: 1.5rem;
+    color: #fff;
+    font-weight: 700;
+}
+.navbar .nav-links li a
+{
+    color: #fff;
+    text-decoration: none;
+}
+
+
